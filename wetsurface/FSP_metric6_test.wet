@@ -1,0 +1,1215 @@
+element 1	     5	    49	    50	     6	-4.1148	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 1"
+element 2	    49	    94	    95	    50	-3.81	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 2"
+element 3	    94	   123	   124	    95	-3.2004	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 3"
+element 4	   123	   153	   175	   124	-2.286	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 4"
+element 5	   153	   204	   205	   175	-1.3716	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 5"
+element 6	   204	   234	   235	   205	-0.4572	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 6"
+element 7	   234	   264	   265	   235	0.4572	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 7"
+element 8	   264	   293	   294	   265	1.3716	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 8"
+element 9	   293	   324	   325	   294	2.286	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 9"
+element 10	   324	   355	   356	   325	3.2004	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 10"
+element 11	   355	   391	   390	   356	3.81	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 11"
+element 12	   391	   409	   408	   390	4.1148	-0.9144	2.286	0	1	0	"/top/fsp Strake 1(Bottom1) Sec 12"
+element 13	     6	    50	    76	    31	-4.1148	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 1"
+element 14	    50	    95	   113	    76	-3.81	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 2"
+element 15	    95	   124	   142	   113	-3.2004	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 3"
+element 16	   124	   175	   172	   142	-2.286	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 4"
+element 17	   175	   205	   202	   172	-1.3716	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 5"
+element 18	   205	   235	   233	   202	-0.4572	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 6"
+element 19	   235	   265	   262	   233	0.4572	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 7"
+element 20	   265	   294	   277	   262	1.3716	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 8"
+element 21	   294	   325	   306	   277	2.286	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 9"
+element 22	   325	   356	   338	   306	3.2004	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 10"
+element 23	   356	   390	   365	   338	3.81	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 11"
+element 24	   390	   408	   407	   365	4.1148	-0.9144	1.9812	0	1	0	"/top/fsp Strake 2(Bottom2) Sec 12"
+element 25	    31	    76	    54	     9	-4.1148	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 1"
+element 26	    76	   113	   103	    54	-3.81	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 2"
+element 27	   113	   142	   132	   103	-3.2004	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 3"
+element 28	   142	   172	   159	   132	-2.286	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 4"
+element 29	   172	   202	   198	   159	-1.3716	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 5"
+element 30	   202	   233	   231	   198	-0.4572	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 6"
+element 31	   233	   262	   260	   231	0.4572	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 7"
+element 32	   262	   277	   286	   260	1.3716	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 8"
+element 33	   277	   306	   314	   286	2.286	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 9"
+element 34	   306	   338	   347	   314	3.2004	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 10"
+element 35	   338	   365	   364	   347	3.81	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 11"
+element 36	   365	   407	   406	   364	4.1148	-0.9144	1.3716	0	1	0	"/top/fsp Strake 3(Bottom3) Sec 12"
+element 37	     9	    54	    65	    25	-4.1148	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 1"
+element 38	    54	   103	    92	    65	-3.81	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 2"
+element 39	   103	   132	   121	    92	-3.2004	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 3"
+element 40	   132	   159	   151	   121	-2.286	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 4"
+element 41	   159	   198	   181	   151	-1.3716	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 5"
+element 42	   198	   231	   212	   181	-0.4572	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 6"
+element 43	   231	   260	   242	   212	0.4572	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 7"
+element 44	   260	   286	   272	   242	1.3716	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 8"
+element 45	   286	   314	   302	   272	2.286	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 9"
+element 46	   314	   347	   334	   302	3.2004	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 10"
+element 47	   347	   364	   363	   334	3.81	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 11"
+element 48	   364	   406	   413	   363	4.1148	-0.9144	0.4572	0	1	0	"/top/fsp Strake 4(Bottom4) Sec 12"
+element 49	    25	    65	    46	     1	-4.1148	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 1"
+element 50	    65	    92	    91	    46	-3.81	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 2"
+element 51	    92	   121	   125	    91	-3.2004	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 3"
+element 52	   121	   151	   154	   125	-2.286	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 4"
+element 53	   151	   181	   184	   154	-1.3716	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 5"
+element 54	   181	   212	   214	   184	-0.4572	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 6"
+element 55	   212	   242	   244	   214	0.4572	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 7"
+element 56	   242	   272	   274	   244	1.3716	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 8"
+element 57	   272	   302	   311	   274	2.286	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 9"
+element 58	   302	   334	   343	   311	3.2004	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 10"
+element 59	   334	   363	   366	   343	3.81	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 11"
+element 60	   363	   413	   410	   366	4.1148	-0.9144	-0.4572	0	1	0	"/top/fsp Strake 5(Bottom5) Sec 12"
+element 61	     1	    46	    55	    23	-4.1148	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 1"
+element 62	    46	    91	   104	    55	-3.81	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 2"
+element 63	    91	   125	   136	   104	-3.2004	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 3"
+element 64	   125	   154	   165	   136	-2.286	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 4"
+element 65	   154	   184	   191	   165	-1.3716	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 5"
+element 66	   184	   214	   222	   191	-0.4572	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 6"
+element 67	   214	   244	   255	   222	0.4572	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 7"
+element 68	   244	   274	   284	   255	1.3716	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 8"
+element 69	   274	   311	   307	   284	2.286	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 9"
+element 70	   311	   343	   339	   307	3.2004	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 10"
+element 71	   343	   366	   384	   339	3.81	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 11"
+element 72	   366	   410	   427	   384	4.1148	-0.9144	-1.3716	0	1	0	"/top/fsp Strake 6(Bottom6) Sec 12"
+element 73	    23	    55	    56	    29	-4.1148	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 1"
+element 74	    55	   104	   105	    56	-3.81	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 2"
+element 75	   104	   136	   133	   105	-3.2004	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 3"
+element 76	   136	   165	   155	   133	-2.286	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 4"
+element 77	   165	   191	   185	   155	-1.3716	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 5"
+element 78	   191	   222	   215	   185	-0.4572	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 6"
+element 79	   222	   255	   245	   215	0.4572	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 7"
+element 80	   255	   284	   280	   245	1.3716	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 8"
+element 81	   284	   307	   310	   280	2.286	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 9"
+element 82	   307	   339	   342	   310	3.2004	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 10"
+element 83	   339	   384	   379	   342	3.81	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 11"
+element 84	   384	   427	   434	   379	4.1148	-0.9144	-1.9812	0	1	0	"/top/fsp Strake 7(Bottom7) Sec 12"
+element 85	    29	    56	    61	    17	-4.1148	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 1"
+element 86	    56	   105	   107	    61	-3.81	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 2"
+element 87	   105	   133	   135	   107	-3.2004	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 3"
+element 88	   133	   155	   163	   135	-2.286	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 4"
+element 89	   155	   185	   200	   163	-1.3716	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 5"
+element 90	   185	   215	   230	   200	-0.4572	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 6"
+element 91	   215	   245	   259	   230	0.4572	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 7"
+element 92	   245	   280	   290	   259	1.3716	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 8"
+element 93	   280	   310	   320	   290	2.286	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 9"
+element 94	   310	   342	   351	   320	3.2004	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 10"
+element 95	   342	   379	   381	   351	3.81	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 11"
+element 96	   379	   434	   428	   381	4.1148	-0.9144	-2.286	0	1	0	"/top/fsp Strake 8(Bottom8) Sec 12"
+element -325	    26	    66	    49	     5	-4.1148	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 1"
+element -326	    66	   112	    94	    49	-3.81	-0.4572	2.4384	0	-0	-1	"/top/fsp Strake 32(Side33) Sec 2"
+element -327	   112	   140	   123	    94	-3.2004	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 3"
+element -328	   140	   170	   153	   123	-2.286	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 4"
+element -329	   170	   199	   204	   153	-1.3716	-0.4572	2.4384	0	-0	-1	"/top/fsp Strake 32(Side33) Sec 5"
+element -330	   199	   217	   234	   204	-0.4572	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 6"
+element -331	   217	   246	   264	   234	0.4572	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 7"
+element -332	   246	   275	   293	   264	1.3716	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 8"
+element -333	   275	   313	   324	   293	2.286	-0.4572	2.4384	0	-0	-1	"/top/fsp Strake 32(Side33) Sec 9"
+element -334	   313	   346	   355	   324	3.2004	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 10"
+element -335	   346	   377	   391	   355	3.81	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 11"
+element -336	   377	   430	   409	   391	4.1148	-0.4572	2.4384	0	0	-1	"/top/fsp Strake 32(Side33) Sec 12"
+element 374	   408	   417	   418	   407	4.2672	-0.4572	1.9812	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 375	   407	   418	   431	   406	4.2672	-0.4572	1.3716	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 376	   406	   431	   414	   413	4.2672	-0.4572	0.4572	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 377	   413	   414	   415	   410	4.2672	-0.4572	-0.4572	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 378	   410	   415	   416	   427	4.2672	-0.4572	-1.3716	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 379	   427	   416	   429	   434	4.2672	-0.4572	-1.9812	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 380	   434	   429	   426	   428	4.2672	-0.4572	-2.286	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 381	    26	     5	     6	    13	-4.2672	-0.4572	2.286	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 382	    13	     6	    31	     7	-4.2672	-0.4572	1.9812	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 383	     7	    31	     9	    12	-4.2672	-0.4572	1.3716	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 384	    12	     9	    25	    11	-4.2672	-0.4572	0.4572	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 385	    11	    25	     1	    10	-4.2672	-0.4572	-0.4572	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 386	    10	     1	    23	    14	-4.2672	-0.4572	-1.3716	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 387	    14	    23	    29	    24	-4.2672	-0.4572	-1.9812	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 388	    24	    29	    17	     8	-4.2672	-0.4572	-2.286	1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element 574	   409	   430	   417	   408	4.2672	-0.4572	2.286	-1	0	0	"/top/fsp Strake 32(Side33) Sec 12"
+element -867	   483	   486	   485	   482	-4.1148	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 1"
+element -868	   486	   489	   488	   485	-3.81	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 2"
+element -869	   489	   492	   491	   488	-3.2004	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 3"
+element -870	   492	   495	   494	   491	-2.286	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 4"
+element -871	   495	   498	   497	   494	-1.3716	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 5"
+element -872	   498	   501	   500	   497	-0.4572	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 6"
+element -873	   501	   504	   503	   500	0.4572	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 7"
+element -874	   504	   507	   506	   503	1.3716	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 8"
+element -875	   507	   510	   509	   506	2.286	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 9"
+element -876	   510	   513	   512	   509	3.2004	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 10"
+element -877	   513	   516	   515	   512	3.81	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 11"
+element -878	   516	   519	   518	   515	4.1148	-0.3429	-2.4384	0	0	1	"/top/fsp Strake 50() Sec 12"
+element -879	   482	   485	    53	     8	-4.1148	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 1"
+element -880	   485	   488	   102	    53	-3.81	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 2"
+element -881	   488	   491	   143	   102	-3.2004	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 3"
+element -882	   491	   494	   173	   143	-2.286	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 4"
+element -883	   494	   497	   203	   173	-1.3716	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 5"
+element -884	   497	   500	   219	   203	-0.4572	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 6"
+element -885	   500	   503	   248	   219	0.4572	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 7"
+element -886	   503	   506	   276	   248	1.3716	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 8"
+element -887	   506	   509	   305	   276	2.286	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 9"
+element -888	   509	   512	   333	   305	3.2004	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 10"
+element -889	   512	   515	   374	   333	3.81	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 11"
+element -890	   515	   518	   426	   374	4.1148	-0.1143	-2.4384	0	0	1	"/top/fsp Strake 51() Sec 12"
+element -891	   481	   484	   486	   483	-4.1148	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 1"
+element -892	   484	   487	   489	   486	-3.81	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 2"
+element -893	   487	   490	   492	   489	-3.2004	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 3"
+element -894	   490	   493	   495	   492	-2.286	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 4"
+element -895	   493	   496	   498	   495	-1.3716	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 5"
+element -896	   496	   499	   501	   498	-0.4572	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 6"
+element -897	   499	   502	   504	   501	0.4572	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 7"
+element -898	   502	   505	   507	   504	1.3716	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 8"
+element -899	   505	   508	   510	   507	2.286	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 9"
+element -900	   508	   511	   513	   510	3.2004	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 10"
+element -901	   511	   514	   516	   513	3.81	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 11"
+element -902	   514	   517	   519	   516	4.1148	-0.5715	-2.4384	0	0	1	"/top/fsp Strake 52() Sec 12"
+element -903	    17	    61	   484	   481	-4.1148	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 1"
+element -904	    61	   107	   487	   484	-3.81	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 2"
+element -905	   107	   135	   490	   487	-3.2004	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 3"
+element -906	   135	   163	   493	   490	-2.286	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 4"
+element -907	   163	   200	   496	   493	-1.3716	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 5"
+element -908	   200	   230	   499	   496	-0.4572	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 6"
+element -909	   230	   259	   502	   499	0.4572	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 7"
+element -910	   259	   290	   505	   502	1.3716	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 8"
+element -911	   290	   320	   508	   505	2.286	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 9"
+element -912	   320	   351	   511	   508	3.2004	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 10"
+element -913	   351	   381	   514	   511	3.81	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 11"
+element -914	   381	   428	   517	   514	4.1148	-0.8001	-2.4384	0	0	1	"/top/fsp Strake 53() Sec 12"
+$Tank Elements
+$All nodes of the global model including wetted nodes
+NumNodes 519
+node      1	-4.2672	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=0"
+node      2	-4.2672	2.4384	2.4384	"/top/fsp EndPt=37, Sec=0"
+node      3	-4.2672	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=0"
+node      4	-4.2672	1.8288	2.4384	"/top/fsp EndPt=28, Sec=0"
+node      5	-4.2672	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=0"
+node      6	-4.2672	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=0"
+node      7	-4.2672	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=0"
+node      8	-4.2672	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=0"
+node      9	-4.2672	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=0"
+node     10	-4.2672	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=0"
+node     11	-4.2672	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=0"
+node     12	-4.2672	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=0"
+node     13	-4.2672	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=0"
+node     14	-4.2672	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=0"
+node     15	-4.2672	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=0"
+node     16	-4.2672	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=0"
+node     17	-4.2672	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=0"
+node     18	-4.2672	0.9144	-1.8288	"/top/fsp EndPt=25, Sec=0"
+node     19	-4.2672	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=0"
+node     20	-4.2672	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=0"
+node     21	-4.2672	0.9144	0.9144	"/top/fsp EndPt=22, Sec=0"
+node     22	-4.2672	0.9144	1.8288	"/top/fsp EndPt=21, Sec=0"
+node     23	-4.2672	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=0"
+node     24	-4.2672	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=0"
+node     25	-4.2672	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=0"
+node     26	-4.2672	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=0"
+node     27	-4.2672	0.9144	2.1336	"/top/fsp EndPt=20, Sec=0"
+node     28	-4.2672	0.9144	2.4384	"/top/fsp EndPt=19, Sec=0"
+node     29	-4.2672	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=0"
+node     30	-4.2672	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=0"
+node     31	-4.2672	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=0"
+node     32	-4.2672	1.8288	1.8288	"/top/fsp EndPt=30, Sec=0"
+node     33	-4.2672	2.4384	0.9144	"/top/fsp EndPt=40, Sec=0"
+node     34	-4.2672	1.8288	0.9144	"/top/fsp EndPt=31, Sec=0"
+node     35	-4.2672	2.4384	3.01361e-008	"/top/fsp EndPt=41, Sec=0"
+node     36	-4.2672	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=0"
+node     37	-4.2672	2.4384	1.8288	"/top/fsp EndPt=39, Sec=0"
+node     38	-4.2672	1.8288	2.1336	"/top/fsp EndPt=29, Sec=0"
+node     39	-4.2672	2.4384	-0.9144	"/top/fsp EndPt=42, Sec=0"
+node     40	-4.2672	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=0"
+node     41	-4.2672	2.4384	-1.8288	"/top/fsp EndPt=43, Sec=0"
+node     42	-4.2672	1.8288	-1.8288	"/top/fsp EndPt=34, Sec=0"
+node     43	-4.2672	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=0"
+node     44	-4.2672	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=0"
+node     45	-4.2672	2.4384	2.1336	"/top/fsp EndPt=38, Sec=0"
+node     46	-3.9624	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=1"
+node     47	-3.9624	2.4384	2.4384	"/top/fsp EndPt=37, Sec=1"
+node     48	-3.9624	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=1"
+node     49	-3.9624	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=1"
+node     50	-3.9624	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=1"
+node     51	-3.9624	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=1"
+node     52	-3.9624	0.9144	2.1336	"/top/fsp EndPt=20, Sec=1"
+node     53	-3.9624	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=1"
+node     54	-3.9624	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=1"
+node     55	-3.9624	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=1"
+node     56	-3.9624	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=1"
+node     57	-3.9624	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=1"
+node     58	-3.9624	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=1"
+node     59	-3.9624	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=1"
+node     60	-3.9624	1.8288	2.4384	"/top/fsp EndPt=28, Sec=1"
+node     61	-3.9624	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=1"
+node     62	-3.9624	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=1"
+node     63	-3.9624	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=1"
+node     64	-3.9624	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=1"
+node     65	-3.9624	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=1"
+node     66	-3.9624	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=1"
+node     67	-3.9624	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=1"
+node     68	-3.9624	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=1"
+node     69	-3.9624	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=1"
+node     70	-3.9624	0.9144	0.9144	"/top/fsp EndPt=22, Sec=1"
+node     71	-3.9624	0.9144	1.8288	"/top/fsp EndPt=21, Sec=1"
+node     72	-3.9624	0.9144	2.4384	"/top/fsp EndPt=19, Sec=1"
+node     73	-3.9624	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=1"
+node     74	-3.9624	0.9144	-1.8288	"/top/fsp EndPt=25, Sec=1"
+node     75	-3.9624	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=1"
+node     76	-3.9624	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=1"
+node     77	-3.9624	2.4384	0.9144	"/top/fsp EndPt=40, Sec=1"
+node     78	-3.9624	1.8288	-1.8288	"/top/fsp EndPt=34, Sec=1"
+node     79	-3.9624	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=1"
+node     80	-3.9624	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=1"
+node     81	-3.9624	1.8288	0.9144	"/top/fsp EndPt=31, Sec=1"
+node     82	-3.9624	1.8288	1.8288	"/top/fsp EndPt=30, Sec=1"
+node     83	-3.9624	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=1"
+node     84	-3.9624	1.8288	2.1336	"/top/fsp EndPt=29, Sec=1"
+node     85	-3.9624	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=1"
+node     86	-3.9624	2.4384	1.8288	"/top/fsp EndPt=39, Sec=1"
+node     87	-3.9624	2.4384	3.01361e-008	"/top/fsp EndPt=41, Sec=1"
+node     88	-3.9624	2.4384	-0.9144	"/top/fsp EndPt=42, Sec=1"
+node     89	-3.9624	2.4384	-1.8288	"/top/fsp EndPt=43, Sec=1"
+node     90	-3.9624	2.4384	2.1336	"/top/fsp EndPt=38, Sec=1"
+node     91	-3.6576	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=2"
+node     92	-3.6576	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=2"
+node     93	-3.6576	2.4384	2.4384	"/top/fsp EndPt=37, Sec=2"
+node     94	-3.6576	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=2"
+node     95	-3.6576	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=2"
+node     96	-3.6576	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=2"
+node     97	-3.6576	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=2"
+node     98	-3.6576	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=2"
+node     99	-3.6576	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=2"
+node    100	-3.6576	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=2"
+node    101	-3.6576	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=2"
+node    102	-3.6576	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=2"
+node    103	-3.6576	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=2"
+node    104	-3.6576	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=2"
+node    105	-3.6576	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=2"
+node    106	-3.6576	1.8288	2.4384	"/top/fsp EndPt=28, Sec=2"
+node    107	-3.6576	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=2"
+node    108	-3.6576	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=2"
+node    109	-3.6576	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=2"
+node    110	-3.6576	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=2"
+node    111	-3.6576	0.9144	2.4384	"/top/fsp EndPt=19, Sec=2"
+node    112	-3.6576	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=2"
+node    113	-3.6576	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=2"
+node    114	-3.6576	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=2"
+node    115	-3.6576	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=2"
+node    116	-3.6576	0.9144	2.1336	"/top/fsp EndPt=20, Sec=2"
+node    117	-3.6576	1.8288	2.1336	"/top/fsp EndPt=29, Sec=2"
+node    118	-3.6576	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=2"
+node    119	-3.6576	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=2"
+node    120	-3.6576	2.4384	2.1336	"/top/fsp EndPt=38, Sec=2"
+node    121	-2.7432	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=3"
+node    122	-2.7432	2.4384	2.4384	"/top/fsp EndPt=37, Sec=3"
+node    123	-2.7432	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=3"
+node    124	-2.7432	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=3"
+node    125	-2.7432	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=3"
+node    126	-2.7432	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=3"
+node    127	-2.7432	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=3"
+node    128	-2.7432	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=3"
+node    129	-2.7432	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=3"
+node    130	-2.7432	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=3"
+node    131	-2.7432	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=3"
+node    132	-2.7432	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=3"
+node    133	-2.7432	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=3"
+node    134	-2.7432	1.8288	2.4384	"/top/fsp EndPt=28, Sec=3"
+node    135	-2.7432	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=3"
+node    136	-2.7432	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=3"
+node    137	-2.7432	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=3"
+node    138	-2.7432	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=3"
+node    139	-2.7432	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=3"
+node    140	-2.7432	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=3"
+node    141	-2.7432	0.9144	2.4384	"/top/fsp EndPt=19, Sec=3"
+node    142	-2.7432	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=3"
+node    143	-2.7432	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=3"
+node    144	-2.7432	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=3"
+node    145	-2.7432	0.9144	2.1336	"/top/fsp EndPt=20, Sec=3"
+node    146	-2.7432	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=3"
+node    147	-2.7432	1.8288	2.1336	"/top/fsp EndPt=29, Sec=3"
+node    148	-2.7432	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=3"
+node    149	-2.7432	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=3"
+node    150	-2.7432	2.4384	2.1336	"/top/fsp EndPt=38, Sec=3"
+node    151	-1.8288	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=4"
+node    152	-1.8288	2.4384	2.4384	"/top/fsp EndPt=37, Sec=4"
+node    153	-1.8288	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=4"
+node    154	-1.8288	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=4"
+node    155	-1.8288	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=4"
+node    156	-1.8288	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=4"
+node    157	-1.8288	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=4"
+node    158	-1.8288	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=4"
+node    159	-1.8288	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=4"
+node    160	-1.8288	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=4"
+node    161	-1.8288	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=4"
+node    162	-1.8288	1.8288	2.4384	"/top/fsp EndPt=28, Sec=4"
+node    163	-1.8288	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=4"
+node    164	-1.8288	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=4"
+node    165	-1.8288	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=4"
+node    166	-1.8288	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=4"
+node    167	-1.8288	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=4"
+node    168	-1.8288	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=4"
+node    169	-1.8288	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=4"
+node    170	-1.8288	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=4"
+node    171	-1.8288	0.9144	2.4384	"/top/fsp EndPt=19, Sec=4"
+node    172	-1.8288	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=4"
+node    173	-1.8288	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=4"
+node    174	-1.8288	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=4"
+node    175	-1.8288	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=4"
+node    176	-1.8288	0.9144	2.1336	"/top/fsp EndPt=20, Sec=4"
+node    177	-1.8288	1.8288	2.1336	"/top/fsp EndPt=29, Sec=4"
+node    178	-1.8288	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=4"
+node    179	-1.8288	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=4"
+node    180	-1.8288	2.4384	2.1336	"/top/fsp EndPt=38, Sec=4"
+node    181	-0.9144	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=5"
+node    182	-0.9144	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=5"
+node    183	-0.9144	2.4384	2.4384	"/top/fsp EndPt=37, Sec=5"
+node    184	-0.9144	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=5"
+node    185	-0.9144	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=5"
+node    186	-0.9144	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=5"
+node    187	-0.9144	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=5"
+node    188	-0.9144	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=5"
+node    189	-0.9144	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=5"
+node    190	-0.9144	1.8288	2.4384	"/top/fsp EndPt=28, Sec=5"
+node    191	-0.9144	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=5"
+node    192	-0.9144	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=5"
+node    193	-0.9144	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=5"
+node    194	-0.9144	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=5"
+node    195	-0.9144	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=5"
+node    196	-0.9144	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=5"
+node    197	-0.9144	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=5"
+node    198	-0.9144	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=5"
+node    199	-0.9144	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=5"
+node    200	-0.9144	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=5"
+node    201	-0.9144	0.9144	2.4384	"/top/fsp EndPt=19, Sec=5"
+node    202	-0.9144	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=5"
+node    203	-0.9144	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=5"
+node    204	-0.9144	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=5"
+node    205	-0.9144	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=5"
+node    206	-0.9144	0.9144	2.1336	"/top/fsp EndPt=20, Sec=5"
+node    207	-0.9144	1.8288	2.1336	"/top/fsp EndPt=29, Sec=5"
+node    208	-0.9144	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=5"
+node    209	-0.9144	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=5"
+node    210	-0.9144	2.4384	2.1336	"/top/fsp EndPt=38, Sec=5"
+node    211	6.86645e-009	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=6"
+node    212	6.86645e-009	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=6"
+node    213	6.86645e-009	2.4384	2.4384	"/top/fsp EndPt=37, Sec=6"
+node    214	6.86645e-009	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=6"
+node    215	6.86645e-009	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=6"
+node    216	6.86645e-009	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=6"
+node    217	6.86645e-009	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=6"
+node    218	6.86645e-009	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=6"
+node    219	6.86645e-009	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=6"
+node    220	6.86645e-009	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=6"
+node    221	6.86645e-009	1.8288	2.4384	"/top/fsp EndPt=28, Sec=6"
+node    222	6.86645e-009	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=6"
+node    223	6.86645e-009	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=6"
+node    224	6.86645e-009	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=6"
+node    225	6.86645e-009	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=6"
+node    226	6.86645e-009	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=6"
+node    227	6.86645e-009	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=6"
+node    228	6.86645e-009	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=6"
+node    229	6.86645e-009	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=6"
+node    230	6.86645e-009	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=6"
+node    231	6.86645e-009	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=6"
+node    232	6.86645e-009	0.9144	2.4384	"/top/fsp EndPt=19, Sec=6"
+node    233	6.86645e-009	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=6"
+node    234	6.86645e-009	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=6"
+node    235	6.86645e-009	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=6"
+node    236	6.86645e-009	0.9144	2.1336	"/top/fsp EndPt=20, Sec=6"
+node    237	6.86645e-009	1.8288	2.1336	"/top/fsp EndPt=29, Sec=6"
+node    238	6.86645e-009	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=6"
+node    239	6.86645e-009	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=6"
+node    240	6.86645e-009	2.4384	2.1336	"/top/fsp EndPt=38, Sec=6"
+node    241	0.9144	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=7"
+node    242	0.9144	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=7"
+node    243	0.9144	2.4384	2.4384	"/top/fsp EndPt=37, Sec=7"
+node    244	0.9144	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=7"
+node    245	0.9144	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=7"
+node    246	0.9144	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=7"
+node    247	0.9144	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=7"
+node    248	0.9144	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=7"
+node    249	0.9144	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=7"
+node    250	0.9144	1.8288	2.4384	"/top/fsp EndPt=28, Sec=7"
+node    251	0.9144	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=7"
+node    252	0.9144	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=7"
+node    253	0.9144	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=7"
+node    254	0.9144	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=7"
+node    255	0.9144	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=7"
+node    256	0.9144	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=7"
+node    257	0.9144	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=7"
+node    258	0.9144	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=7"
+node    259	0.9144	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=7"
+node    260	0.9144	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=7"
+node    261	0.9144	0.9144	2.4384	"/top/fsp EndPt=19, Sec=7"
+node    262	0.9144	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=7"
+node    263	0.9144	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=7"
+node    264	0.9144	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=7"
+node    265	0.9144	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=7"
+node    266	0.9144	0.9144	2.1336	"/top/fsp EndPt=20, Sec=7"
+node    267	0.9144	1.8288	2.1336	"/top/fsp EndPt=29, Sec=7"
+node    268	0.9144	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=7"
+node    269	0.9144	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=7"
+node    270	0.9144	2.4384	2.1336	"/top/fsp EndPt=38, Sec=7"
+node    271	1.8288	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=8"
+node    272	1.8288	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=8"
+node    273	1.8288	2.4384	2.4384	"/top/fsp EndPt=37, Sec=8"
+node    274	1.8288	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=8"
+node    275	1.8288	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=8"
+node    276	1.8288	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=8"
+node    277	1.8288	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=8"
+node    278	1.8288	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=8"
+node    279	1.8288	1.8288	2.4384	"/top/fsp EndPt=28, Sec=8"
+node    280	1.8288	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=8"
+node    281	1.8288	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=8"
+node    282	1.8288	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=8"
+node    283	1.8288	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=8"
+node    284	1.8288	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=8"
+node    285	1.8288	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=8"
+node    286	1.8288	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=8"
+node    287	1.8288	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=8"
+node    288	1.8288	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=8"
+node    289	1.8288	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=8"
+node    290	1.8288	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=8"
+node    291	1.8288	0.9144	2.4384	"/top/fsp EndPt=19, Sec=8"
+node    292	1.8288	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=8"
+node    293	1.8288	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=8"
+node    294	1.8288	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=8"
+node    295	1.8288	0.9144	2.1336	"/top/fsp EndPt=20, Sec=8"
+node    296	1.8288	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=8"
+node    297	1.8288	1.8288	2.1336	"/top/fsp EndPt=29, Sec=8"
+node    298	1.8288	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=8"
+node    299	1.8288	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=8"
+node    300	1.8288	2.4384	2.1336	"/top/fsp EndPt=38, Sec=8"
+node    301	2.7432	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=9"
+node    302	2.7432	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=9"
+node    303	2.7432	2.4384	2.4384	"/top/fsp EndPt=37, Sec=9"
+node    304	2.7432	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=9"
+node    305	2.7432	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=9"
+node    306	2.7432	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=9"
+node    307	2.7432	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=9"
+node    308	2.7432	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=9"
+node    309	2.7432	1.8288	2.4384	"/top/fsp EndPt=28, Sec=9"
+node    310	2.7432	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=9"
+node    311	2.7432	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=9"
+node    312	2.7432	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=9"
+node    313	2.7432	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=9"
+node    314	2.7432	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=9"
+node    315	2.7432	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=9"
+node    316	2.7432	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=9"
+node    317	2.7432	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=9"
+node    318	2.7432	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=9"
+node    319	2.7432	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=9"
+node    320	2.7432	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=9"
+node    321	2.7432	0.9144	2.4384	"/top/fsp EndPt=19, Sec=9"
+node    322	2.7432	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=9"
+node    323	2.7432	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=9"
+node    324	2.7432	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=9"
+node    325	2.7432	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=9"
+node    326	2.7432	0.9144	2.1336	"/top/fsp EndPt=20, Sec=9"
+node    327	2.7432	1.8288	2.1336	"/top/fsp EndPt=29, Sec=9"
+node    328	2.7432	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=9"
+node    329	2.7432	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=9"
+node    330	2.7432	2.4384	2.1336	"/top/fsp EndPt=38, Sec=9"
+node    331	3.6576	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=10"
+node    332	3.6576	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=10"
+node    333	3.6576	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=10"
+node    334	3.6576	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=10"
+node    335	3.6576	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=10"
+node    336	3.6576	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=10"
+node    337	3.6576	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=10"
+node    338	3.6576	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=10"
+node    339	3.6576	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=10"
+node    340	3.6576	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=10"
+node    341	3.6576	1.8288	2.4384	"/top/fsp EndPt=28, Sec=10"
+node    342	3.6576	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=10"
+node    343	3.6576	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=10"
+node    344	3.6576	2.4384	2.4384	"/top/fsp EndPt=37, Sec=10"
+node    345	3.6576	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=10"
+node    346	3.6576	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=10"
+node    347	3.6576	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=10"
+node    348	3.6576	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=10"
+node    349	3.6576	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=10"
+node    350	3.6576	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=10"
+node    351	3.6576	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=10"
+node    352	3.6576	0.9144	2.4384	"/top/fsp EndPt=19, Sec=10"
+node    353	3.6576	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=10"
+node    354	3.6576	0.9144	2.1336	"/top/fsp EndPt=20, Sec=10"
+node    355	3.6576	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=10"
+node    356	3.6576	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=10"
+node    357	3.6576	1.8288	2.1336	"/top/fsp EndPt=29, Sec=10"
+node    358	3.6576	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=10"
+node    359	3.6576	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=10"
+node    360	3.6576	2.4384	2.1336	"/top/fsp EndPt=38, Sec=10"
+node    361	3.9624	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=11"
+node    362	3.9624	0.9144	1.8288	"/top/fsp EndPt=21, Sec=11"
+node    363	3.9624	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=11"
+node    364	3.9624	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=11"
+node    365	3.9624	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=11"
+node    366	3.9624	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=11"
+node    367	3.9624	0.9144	0.9144	"/top/fsp EndPt=22, Sec=11"
+node    368	3.9624	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=11"
+node    369	3.9624	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=11"
+node    370	3.9624	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=11"
+node    371	3.9624	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=11"
+node    372	3.9624	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=11"
+node    373	3.9624	1.8288	2.4384	"/top/fsp EndPt=28, Sec=11"
+node    374	3.9624	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=11"
+node    375	3.9624	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=11"
+node    376	3.9624	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=11"
+node    377	3.9624	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=11"
+node    378	3.9624	2.4384	2.4384	"/top/fsp EndPt=37, Sec=11"
+node    379	3.9624	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=11"
+node    380	3.9624	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=11"
+node    381	3.9624	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=11"
+node    382	3.9624	0.9144	-1.8288	"/top/fsp EndPt=25, Sec=11"
+node    383	3.9624	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=11"
+node    384	3.9624	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=11"
+node    385	3.9624	0.9144	2.4384	"/top/fsp EndPt=19, Sec=11"
+node    386	3.9624	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=11"
+node    387	3.9624	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=11"
+node    388	3.9624	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=11"
+node    389	3.9624	0.9144	2.1336	"/top/fsp EndPt=20, Sec=11"
+node    390	3.9624	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=11"
+node    391	3.9624	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=11"
+node    392	3.9624	1.8288	0.9144	"/top/fsp EndPt=31, Sec=11"
+node    393	3.9624	1.8288	1.8288	"/top/fsp EndPt=30, Sec=11"
+node    394	3.9624	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=11"
+node    395	3.9624	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=11"
+node    396	3.9624	1.8288	-1.8288	"/top/fsp EndPt=34, Sec=11"
+node    397	3.9624	1.8288	2.1336	"/top/fsp EndPt=29, Sec=11"
+node    398	3.9624	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=11"
+node    399	3.9624	2.4384	1.8288	"/top/fsp EndPt=39, Sec=11"
+node    400	3.9624	2.4384	0.9144	"/top/fsp EndPt=40, Sec=11"
+node    401	3.9624	2.4384	3.01361e-008	"/top/fsp EndPt=41, Sec=11"
+node    402	3.9624	2.4384	-1.8288	"/top/fsp EndPt=43, Sec=11"
+node    403	3.9624	2.4384	-0.9144	"/top/fsp EndPt=42, Sec=11"
+node    404	3.9624	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=11"
+node    405	3.9624	2.4384	2.1336	"/top/fsp EndPt=38, Sec=11"
+node    406	4.2672	-0.9144	0.9144	"/top/fsp EndPt=4, Sec=12"
+node    407	4.2672	-0.9144	1.8288	"/top/fsp EndPt=3, Sec=12"
+node    408	4.2672	-0.9144	2.1336	"/top/fsp EndPt=2, Sec=12"
+node    409	4.2672	-0.9144	2.4384	"/top/fsp EndPt=1, Sec=12"
+node    410	4.2672	-0.9144	-0.9144	"/top/fsp EndPt=6, Sec=12"
+node    411	4.2672	0.9144	2.1336	"/top/fsp EndPt=20, Sec=12"
+node    412	4.2672	0.9144	1.8288	"/top/fsp EndPt=21, Sec=12"
+node    413	4.2672	-0.9144	3.01361e-008	"/top/fsp EndPt=5, Sec=12"
+node    414	4.2672	1.85013e-008	3.01361e-008	"/top/fsp EndPt=14, Sec=12"
+node    415	4.2672	1.85013e-008	-0.9144	"/top/fsp EndPt=15, Sec=12"
+node    416	4.2672	1.85013e-008	-1.8288	"/top/fsp EndPt=16, Sec=12"
+node    417	4.2672	1.85013e-008	2.1336	"/top/fsp EndPt=11, Sec=12"
+node    418	4.2672	1.85013e-008	1.8288	"/top/fsp EndPt=12, Sec=12"
+node    419	4.2672	2.4384	-2.4384	"/top/fsp EndPt=45, Sec=12"
+node    420	4.2672	0.9144	0.9144	"/top/fsp EndPt=22, Sec=12"
+node    421	4.2672	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=12"
+node    422	4.2672	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=12"
+node    423	4.2672	0.9144	-1.8288	"/top/fsp EndPt=25, Sec=12"
+node    424	4.2672	0.9144	-2.1336	"/top/fsp EndPt=26, Sec=12"
+node    425	4.2672	0.9144	2.4384	"/top/fsp EndPt=19, Sec=12"
+node    426	4.2672	1.85013e-008	-2.4384	"/top/fsp EndPt=18, Sec=12"
+node    427	4.2672	-0.9144	-1.8288	"/top/fsp EndPt=7, Sec=12"
+node    428	4.2672	-0.9144	-2.4384	"/top/fsp EndPt=9, Sec=12"
+node    429	4.2672	1.85013e-008	-2.1336	"/top/fsp EndPt=17, Sec=12"
+node    430	4.2672	1.85013e-008	2.4384	"/top/fsp EndPt=10, Sec=12"
+node    431	4.2672	1.85013e-008	0.9144	"/top/fsp EndPt=13, Sec=12"
+node    432	4.2672	2.4384	2.4384	"/top/fsp EndPt=37, Sec=12"
+node    433	4.2672	0.9144	-2.4384	"/top/fsp EndPt=27, Sec=12"
+node    434	4.2672	-0.9144	-2.1336	"/top/fsp EndPt=8, Sec=12"
+node    435	4.2672	1.8288	-2.4384	"/top/fsp EndPt=36, Sec=12"
+node    436	4.2672	1.8288	2.4384	"/top/fsp EndPt=28, Sec=12"
+node    437	4.2672	1.8288	2.1336	"/top/fsp EndPt=29, Sec=12"
+node    438	4.2672	1.8288	1.8288	"/top/fsp EndPt=30, Sec=12"
+node    439	4.2672	1.8288	0.9144	"/top/fsp EndPt=31, Sec=12"
+node    440	4.2672	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=12"
+node    441	4.2672	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=12"
+node    442	4.2672	1.8288	-1.8288	"/top/fsp EndPt=34, Sec=12"
+node    443	4.2672	2.4384	3.01361e-008	"/top/fsp EndPt=41, Sec=12"
+node    444	4.2672	2.4384	0.9144	"/top/fsp EndPt=40, Sec=12"
+node    445	4.2672	2.4384	1.8288	"/top/fsp EndPt=39, Sec=12"
+node    446	4.2672	2.4384	2.1336	"/top/fsp EndPt=38, Sec=12"
+node    447	4.2672	1.8288	-2.1336	"/top/fsp EndPt=35, Sec=12"
+node    448	4.2672	2.4384	-0.9144	"/top/fsp EndPt=42, Sec=12"
+node    449	4.2672	2.4384	-1.8288	"/top/fsp EndPt=43, Sec=12"
+node    450	4.2672	2.4384	-2.1336	"/top/fsp EndPt=44, Sec=12"
+node    451	-1.8288	0.9144	0.9144	"/top/fsp EndPt=22, Sec=4"
+node    452	-1.8288	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=4"
+node    453	-1.8288	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=4"
+node    454	-1.8288	1.8288	0.9144	"/top/fsp EndPt=31, Sec=4"
+node    455	-1.8288	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=4"
+node    456	-1.8288	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=4"
+node    457	-0.9144	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=5"
+node    458	-0.9144	0.9144	0.9144	"/top/fsp EndPt=22, Sec=5"
+node    459	-0.9144	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=5"
+node    460	-0.9144	1.8288	0.9144	"/top/fsp EndPt=31, Sec=5"
+node    461	-0.9144	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=5"
+node    462	-0.9144	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=5"
+node    463	6.86645e-009	0.9144	0.9144	"/top/fsp EndPt=22, Sec=6"
+node    464	6.86645e-009	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=6"
+node    465	6.86645e-009	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=6"
+node    466	6.86645e-009	1.8288	0.9144	"/top/fsp EndPt=31, Sec=6"
+node    467	6.86645e-009	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=6"
+node    468	6.86645e-009	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=6"
+node    469	0.9144	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=7"
+node    470	0.9144	0.9144	0.9144	"/top/fsp EndPt=22, Sec=7"
+node    471	0.9144	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=7"
+node    472	0.9144	1.8288	0.9144	"/top/fsp EndPt=31, Sec=7"
+node    473	0.9144	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=7"
+node    474	0.9144	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=7"
+node    475	1.8288	0.9144	3.01361e-008	"/top/fsp EndPt=23, Sec=8"
+node    476	1.8288	0.9144	0.9144	"/top/fsp EndPt=22, Sec=8"
+node    477	1.8288	0.9144	-0.9144	"/top/fsp EndPt=24, Sec=8"
+node    478	1.8288	1.8288	0.9144	"/top/fsp EndPt=31, Sec=8"
+node    479	1.8288	1.8288	3.01361e-008	"/top/fsp EndPt=32, Sec=8"
+node    480	1.8288	1.8288	-0.9144	"/top/fsp EndPt=33, Sec=8"
+node    481	-4.2672	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=0"
+node    482	-4.2672	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=0"
+node    483	-4.2672	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=0"
+node    484	-3.9624	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=1"
+node    485	-3.9624	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=1"
+node    486	-3.9624	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=1"
+node    487	-3.6576	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=2"
+node    488	-3.6576	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=2"
+node    489	-3.6576	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=2"
+node    490	-2.7432	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=3"
+node    491	-2.7432	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=3"
+node    492	-2.7432	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=3"
+node    493	-1.8288	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=4"
+node    494	-1.8288	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=4"
+node    495	-1.8288	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=4"
+node    496	-0.9144	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=5"
+node    497	-0.9144	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=5"
+node    498	-0.9144	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=5"
+node    499	6.86645e-009	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=6"
+node    500	6.86645e-009	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=6"
+node    501	6.86645e-009	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=6"
+node    502	0.9144	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=7"
+node    503	0.9144	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=7"
+node    504	0.9144	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=7"
+node    505	1.8288	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=8"
+node    506	1.8288	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=8"
+node    507	1.8288	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=8"
+node    508	2.7432	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=9"
+node    509	2.7432	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=9"
+node    510	2.7432	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=9"
+node    511	3.6576	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=10"
+node    512	3.6576	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=10"
+node    513	3.6576	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=10"
+node    514	3.9624	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=11"
+node    515	3.9624	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=11"
+node    516	3.9624	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=11"
+node    517	4.2672	-0.6858	-2.4384	"/top/fsp EndPt=48, Sec=12"
+node    518	4.2672	-0.2286	-2.4384	"/top/fsp EndPt=46, Sec=12"
+node    519	4.2672	-0.4572	-2.4384	"/top/fsp EndPt=47, Sec=12"
+$Equivalent Nodal Mass for each load case
+loadcase 1	"LoadCase 001"
+nodalmass 1	118.075
+nodalmass 2	2.88825
+nodalmass 3	6.35415
+nodalmass 4	6.35415
+nodalmass 5	32.4169
+nodalmass 6	37.0479
+nodalmass 7	134.25
+nodalmass 8	47.9412
+nodalmass 9	118.075
+nodalmass 10	194.443
+nodalmass 11	194.443
+nodalmass 12	194.443
+nodalmass 13	60.193
+nodalmass 14	134.25
+nodalmass 15	39.356
+nodalmass 16	35.3039
+nodalmass 17	22.4756
+nodalmass 18	92.5757
+nodalmass 19	131.932
+nodalmass 20	131.932
+nodalmass 21	131.932
+nodalmass 22	92.5757
+nodalmass 23	81.0276
+nodalmass 24	60.193
+nodalmass 25	118.075
+nodalmass 26	57.8824
+nodalmass 27	39.356
+nodalmass 28	35.3039
+nodalmass 29	37.0479
+nodalmass 30	2.88825
+nodalmass 31	81.0276
+nodalmass 32	25.4166
+nodalmass 33	15.0189
+nodalmass 34	32.3484
+nodalmass 35	15.0189
+nodalmass 36	32.3484
+nodalmass 37	11.553
+nodalmass 38	6.9318
+nodalmass 39	15.0189
+nodalmass 40	32.3484
+nodalmass 41	11.553
+nodalmass 42	25.4166
+nodalmass 43	3.4659
+nodalmass 44	6.9318
+nodalmass 45	3.4659
+nodalmass 46	69.4354
+nodalmass 47	3.4659
+nodalmass 48	6.9318
+nodalmass 49	37.0479
+nodalmass 50	18.5239
+nodalmass 51	12.1563
+nodalmass 52	12.1563
+nodalmass 53	40.3105
+nodalmass 54	69.4354
+nodalmass 55	50.9115
+nodalmass 56	18.5239
+nodalmass 57	48.5226
+nodalmass 58	48.5226
+nodalmass 59	48.5226
+nodalmass 60	6.9318
+nodalmass 61	17.1654
+nodalmass 62	39.2802
+nodalmass 63	39.2802
+nodalmass 64	39.356
+nodalmass 65	69.4354
+nodalmass 66	60.193
+nodalmass 67	9.24241
+nodalmass 68	9.24241
+nodalmass 69	38.1763
+nodalmass 70	38.1763
+nodalmass 71	30.0721
+nodalmass 72	39.356
+nodalmass 73	38.1763
+nodalmass 74	30.0721
+nodalmass 75	3.4659
+nodalmass 76	50.9115
+nodalmass 77	8.08711
+nodalmass 78	13.8636
+nodalmass 79	15.0189
+nodalmass 80	15.0189
+nodalmass 81	15.0189
+nodalmass 82	13.8636
+nodalmass 83	1.73295
+nodalmass 84	1.73295
+nodalmass 85	1.73295
+nodalmass 86	6.9318
+nodalmass 87	8.08711
+nodalmass 88	8.08711
+nodalmass 89	6.9318
+nodalmass 90	1.73295
+nodalmass 91	180.462
+nodalmass 92	180.462
+nodalmass 93	11.553
+nodalmass 94	81.0276
+nodalmass 95	50.9115
+nodalmass 96	30.0721
+nodalmass 97	92.4241
+nodalmass 98	124.772
+nodalmass 99	92.4241
+nodalmass 100	124.772
+nodalmass 101	39.2802
+nodalmass 102	94.4846
+nodalmass 103	180.462
+nodalmass 104	129.55
+nodalmass 105	50.9115
+nodalmass 106	25.4166
+nodalmass 107	41.2626
+nodalmass 108	25.4166
+nodalmass 109	39.2802
+nodalmass 110	92.5757
+nodalmass 111	92.5757
+nodalmass 112	134.25
+nodalmass 113	129.55
+nodalmass 114	11.553
+nodalmass 115	124.772
+nodalmass 116	30.0721
+nodalmass 117	13.8636
+nodalmass 118	13.8636
+nodalmass 119	6.9318
+nodalmass 120	6.9318
+nodalmass 121	249.897
+nodalmass 122	15.0189
+nodalmass 123	118.075
+nodalmass 124	69.4354
+nodalmass 125	249.897
+nodalmass 126	38.1763
+nodalmass 127	166.363
+nodalmass 128	48.5226
+nodalmass 129	124.772
+nodalmass 130	124.772
+nodalmass 131	166.363
+nodalmass 132	249.897
+nodalmass 133	69.4354
+nodalmass 134	32.3484
+nodalmass 135	58.4279
+nodalmass 136	180.462
+nodalmass 137	32.3484
+nodalmass 138	48.5226
+nodalmass 139	131.932
+nodalmass 140	194.443
+nodalmass 141	131.932
+nodalmass 142	180.462
+nodalmass 143	134.795
+nodalmass 144	15.0189
+nodalmass 145	38.1763
+nodalmass 146	166.363
+nodalmass 147	15.0189
+nodalmass 148	15.0189
+nodalmass 149	8.08711
+nodalmass 150	8.08711
+nodalmass 151	249.897
+nodalmass 152	15.0189
+nodalmass 153	118.075
+nodalmass 154	249.897
+nodalmass 155	69.4354
+nodalmass 156	38.1763
+nodalmass 157	124.772
+nodalmass 158	261.204
+nodalmass 159	249.897
+nodalmass 160	48.5226
+nodalmass 161	124.772
+nodalmass 162	32.3484
+nodalmass 163	58.4279
+nodalmass 164	48.5226
+nodalmass 165	180.462
+nodalmass 166	308.625
+nodalmass 167	261.204
+nodalmass 168	32.3484
+nodalmass 169	131.932
+nodalmass 170	194.443
+nodalmass 171	131.932
+nodalmass 172	180.462
+nodalmass 173	134.795
+nodalmass 174	15.0189
+nodalmass 175	69.4354
+nodalmass 176	38.1763
+nodalmass 177	15.0189
+nodalmass 178	15.0189
+nodalmass 179	8.08711
+nodalmass 180	8.08711
+nodalmass 181	249.897
+nodalmass 182	32.3484
+nodalmass 183	15.0189
+nodalmass 184	249.897
+nodalmass 185	69.4354
+nodalmass 186	38.1763
+nodalmass 187	48.5226
+nodalmass 188	124.772
+nodalmass 189	15.0189
+nodalmass 190	32.3484
+nodalmass 191	180.462
+nodalmass 192	308.625
+nodalmass 193	356.045
+nodalmass 194	308.625
+nodalmass 195	124.772
+nodalmass 196	48.5226
+nodalmass 197	131.932
+nodalmass 198	249.897
+nodalmass 199	194.443
+nodalmass 200	58.4279
+nodalmass 201	131.932
+nodalmass 202	180.462
+nodalmass 203	134.795
+nodalmass 204	118.075
+nodalmass 205	69.4354
+nodalmass 206	38.1763
+nodalmass 207	15.0189
+nodalmass 208	15.0189
+nodalmass 209	8.08711
+nodalmass 210	8.08711
+nodalmass 211	32.3484
+nodalmass 212	249.897
+nodalmass 213	15.0189
+nodalmass 214	249.897
+nodalmass 215	69.4354
+nodalmass 216	38.1763
+nodalmass 217	194.443
+nodalmass 218	48.5226
+nodalmass 219	134.795
+nodalmass 220	15.0189
+nodalmass 221	32.3484
+nodalmass 222	180.462
+nodalmass 223	124.772
+nodalmass 224	308.625
+nodalmass 225	356.045
+nodalmass 226	308.625
+nodalmass 227	124.772
+nodalmass 228	48.5226
+nodalmass 229	131.932
+nodalmass 230	58.4279
+nodalmass 231	249.897
+nodalmass 232	131.932
+nodalmass 233	180.462
+nodalmass 234	118.075
+nodalmass 235	69.4354
+nodalmass 236	38.1763
+nodalmass 237	15.0189
+nodalmass 238	15.0189
+nodalmass 239	8.08711
+nodalmass 240	8.08711
+nodalmass 241	32.3484
+nodalmass 242	249.897
+nodalmass 243	15.0189
+nodalmass 244	249.897
+nodalmass 245	69.4354
+nodalmass 246	194.443
+nodalmass 247	48.5226
+nodalmass 248	134.795
+nodalmass 249	15.0189
+nodalmass 250	32.3484
+nodalmass 251	356.045
+nodalmass 252	308.625
+nodalmass 253	124.772
+nodalmass 254	48.5226
+nodalmass 255	180.462
+nodalmass 256	124.772
+nodalmass 257	308.625
+nodalmass 258	131.932
+nodalmass 259	58.4279
+nodalmass 260	249.897
+nodalmass 261	131.932
+nodalmass 262	180.462
+nodalmass 263	38.1763
+nodalmass 264	118.075
+nodalmass 265	69.4354
+nodalmass 266	38.1763
+nodalmass 267	15.0189
+nodalmass 268	15.0189
+nodalmass 269	8.08711
+nodalmass 270	8.08711
+nodalmass 271	32.3484
+nodalmass 272	249.897
+nodalmass 273	15.0189
+nodalmass 274	249.897
+nodalmass 275	194.443
+nodalmass 276	134.795
+nodalmass 277	180.462
+nodalmass 278	15.0189
+nodalmass 279	32.3484
+nodalmass 280	69.4354
+nodalmass 281	124.772
+nodalmass 282	261.204
+nodalmass 283	308.625
+nodalmass 284	180.462
+nodalmass 285	131.932
+nodalmass 286	249.897
+nodalmass 287	261.204
+nodalmass 288	124.772
+nodalmass 289	48.5226
+nodalmass 290	58.4279
+nodalmass 291	131.932
+nodalmass 292	38.1763
+nodalmass 293	118.075
+nodalmass 294	69.4354
+nodalmass 295	38.1763
+nodalmass 296	48.5226
+nodalmass 297	15.0189
+nodalmass 298	15.0189
+nodalmass 299	8.08711
+nodalmass 300	8.08711
+nodalmass 301	32.3484
+nodalmass 302	249.897
+nodalmass 303	15.0189
+nodalmass 304	48.5226
+nodalmass 305	134.795
+nodalmass 306	180.462
+nodalmass 307	180.462
+nodalmass 308	15.0189
+nodalmass 309	32.3484
+nodalmass 310	69.4354
+nodalmass 311	249.897
+nodalmass 312	131.932
+nodalmass 313	194.443
+nodalmass 314	249.897
+nodalmass 315	124.772
+nodalmass 316	166.363
+nodalmass 317	166.363
+nodalmass 318	166.363
+nodalmass 319	124.772
+nodalmass 320	58.4279
+nodalmass 321	131.932
+nodalmass 322	48.5226
+nodalmass 323	38.1763
+nodalmass 324	118.075
+nodalmass 325	69.4354
+nodalmass 326	38.1763
+nodalmass 327	15.0189
+nodalmass 328	15.0189
+nodalmass 329	8.08711
+nodalmass 330	8.08711
+nodalmass 331	39.2802
+nodalmass 332	25.4166
+nodalmass 333	94.4846
+nodalmass 334	180.462
+nodalmass 335	124.772
+nodalmass 336	92.4241
+nodalmass 337	39.2802
+nodalmass 338	129.55
+nodalmass 339	129.55
+nodalmass 340	11.553
+nodalmass 341	25.4166
+nodalmass 342	50.9115
+nodalmass 343	180.462
+nodalmass 344	11.553
+nodalmass 345	92.5757
+nodalmass 346	134.25
+nodalmass 347	180.462
+nodalmass 348	124.772
+nodalmass 349	124.772
+nodalmass 350	92.4241
+nodalmass 351	41.2626
+nodalmass 352	92.5757
+nodalmass 353	30.0721
+nodalmass 354	30.0721
+nodalmass 355	81.0276
+nodalmass 356	50.9115
+nodalmass 357	13.8636
+nodalmass 358	13.8636
+nodalmass 359	6.9318
+nodalmass 360	6.9318
+nodalmass 361	6.9318
+nodalmass 362	30.0721
+nodalmass 363	69.4354
+nodalmass 364	69.4354
+nodalmass 365	50.9115
+nodalmass 366	69.4354
+nodalmass 367	38.1763
+nodalmass 368	38.1763
+nodalmass 369	3.4659
+nodalmass 370	39.2802
+nodalmass 371	48.5226
+nodalmass 372	48.5226
+nodalmass 373	6.9318
+nodalmass 374	40.3105
+nodalmass 375	39.2802
+nodalmass 376	48.5226
+nodalmass 377	60.193
+nodalmass 378	3.4659
+nodalmass 379	18.5239
+nodalmass 380	39.356
+nodalmass 381	17.1654
+nodalmass 382	30.0721
+nodalmass 383	9.24241
+nodalmass 384	50.9115
+nodalmass 385	39.356
+nodalmass 386	9.24241
+nodalmass 387	38.1763
+nodalmass 388	12.1563
+nodalmass 389	12.1563
+nodalmass 390	18.5239
+nodalmass 391	37.0479
+nodalmass 392	15.0189
+nodalmass 393	13.8636
+nodalmass 394	15.0189
+nodalmass 395	15.0189
+nodalmass 396	13.8636
+nodalmass 397	1.73295
+nodalmass 398	1.73295
+nodalmass 399	6.9318
+nodalmass 400	8.08711
+nodalmass 401	8.08711
+nodalmass 402	6.9318
+nodalmass 403	8.08711
+nodalmass 404	1.73295
+nodalmass 405	1.73295
+nodalmass 406	118.075
+nodalmass 407	81.0276
+nodalmass 408	37.0479
+nodalmass 409	32.4169
+nodalmass 410	118.075
+nodalmass 411	39.356
+nodalmass 412	92.5757
+nodalmass 413	118.075
+nodalmass 414	194.443
+nodalmass 415	194.443
+nodalmass 416	134.25
+nodalmass 417	60.193
+nodalmass 418	134.25
+nodalmass 419	2.88825
+nodalmass 420	131.932
+nodalmass 421	131.932
+nodalmass 422	131.932
+nodalmass 423	92.5757
+nodalmass 424	39.356
+nodalmass 425	35.3039
+nodalmass 426	47.9412
+nodalmass 427	81.0276
+nodalmass 428	22.4756
+nodalmass 429	60.193
+nodalmass 430	57.8824
+nodalmass 431	194.443
+nodalmass 432	2.88825
+nodalmass 433	35.3039
+nodalmass 434	37.0479
+nodalmass 435	6.35415
+nodalmass 436	6.35415
+nodalmass 437	6.9318
+nodalmass 438	25.4166
+nodalmass 439	32.3484
+nodalmass 440	32.3484
+nodalmass 441	32.3484
+nodalmass 442	25.4166
+nodalmass 443	15.0189
+nodalmass 444	15.0189
+nodalmass 445	11.553
+nodalmass 446	3.4659
+nodalmass 447	6.9318
+nodalmass 448	15.0189
+nodalmass 449	11.553
+nodalmass 450	3.4659
+nodalmass 451	237.102
+nodalmass 452	379.364
+nodalmass 453	237.102
+nodalmass 454	142.261
+nodalmass 455	237.102
+nodalmass 456	142.261
+nodalmass 457	379.364
+nodalmass 458	379.364
+nodalmass 459	569.045
+nodalmass 460	237.102
+nodalmass 461	379.364
+nodalmass 462	237.102
+nodalmass 463	379.364
+nodalmass 464	569.045
+nodalmass 465	379.364
+nodalmass 466	237.102
+nodalmass 467	379.364
+nodalmass 468	237.102
+nodalmass 469	569.045
+nodalmass 470	379.364
+nodalmass 471	379.364
+nodalmass 472	237.102
+nodalmass 473	379.364
+nodalmass 474	237.102
+nodalmass 475	379.364
+nodalmass 476	237.102
+nodalmass 477	237.102
+nodalmass 478	142.261
+nodalmass 479	237.102
+nodalmass 480	142.261
+nodalmass 481	7.90341
+nodalmass 482	7.90341
+nodalmass 483	7.90341
+nodalmass 484	15.8068
+nodalmass 485	15.8068
+nodalmass 486	15.8068
+nodalmass 487	31.6136
+nodalmass 488	31.6136
+nodalmass 489	31.6136
+nodalmass 490	47.4205
+nodalmass 491	47.4205
+nodalmass 492	47.4205
+nodalmass 493	47.4205
+nodalmass 494	47.4205
+nodalmass 495	47.4205
+nodalmass 496	47.4205
+nodalmass 497	47.4205
+nodalmass 498	47.4205
+nodalmass 499	47.4205
+nodalmass 500	47.4205
+nodalmass 501	47.4205
+nodalmass 502	47.4205
+nodalmass 503	47.4205
+nodalmass 504	47.4205
+nodalmass 505	47.4205
+nodalmass 506	47.4205
+nodalmass 507	47.4205
+nodalmass 508	47.4205
+nodalmass 509	47.4205
+nodalmass 510	47.4205
+nodalmass 511	31.6136
+nodalmass 512	31.6136
+nodalmass 513	31.6136
+nodalmass 514	15.8068
+nodalmass 515	15.8068
+nodalmass 516	15.8068
+nodalmass 517	7.90341
+nodalmass 518	7.90341
+nodalmass 519	7.90341
